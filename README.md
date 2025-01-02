@@ -1,5 +1,5 @@
 # Coord-Prediction
-A model that can predict the color of a dot based on the surrounding colored dots.
+A supervised model that can predict the color of a dot based on the surrounding colored dots.
 
 ## Benchmark 
 It was working with :
